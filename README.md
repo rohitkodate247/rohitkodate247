@@ -4,7 +4,7 @@
 ✉️ kodaterohitkodate@gmail.com  
 🌐 /rohit-kodate  
 📷 /rohitkodate247  
-📍 Ottawa, ON
+📍 Calgary, AB
 
 ## PROFESSIONAL SUMMARY ✨
 
