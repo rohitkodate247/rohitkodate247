@@ -8,7 +8,10 @@
 
 ## PROFESSIONAL SUMMARY ✨
 
-Experienced Senior Software Quality Assurance Engineer with 5+ years of expertise in SoC/platform/system-level validation, test automation, and team management. Proven track record in leading cross-functional teams, driving process improvements, and executing high-risk test plans. With a Master’s degree in Engineering Management, I possess the strategic vision and leadership skills necessary to manage cross-functional teams, mentor staff, and complete complex projects.
+Experienced Engineering Professional with 4+ years of experience in project management, software testing, and product
+development. Proven track record in driving efficiency, improving product quality, and leading cross-functional teams.
+Master’s degree in Engineering Management with a strategic vision and leadership skills necessary to manage complex
+projects and mentor staff.
 
 ## SKILLS 🛠️
 
