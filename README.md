@@ -15,16 +15,6 @@ projects and mentor staff.
 
 ## SKILLS 🛠️
 
-Programming Languages**: JavaScript, TypeScript, Python, SQL
-- **Development Tools**: Visual Studio Code
-- **Operating Systems**: Linux, Windows systems
-- **Automation**: Test Automation Frameworks: Cypress, Planning, Creating & Executing Automation Test Scripts
-- **Testing/QA**: Functional Testing, Performance Testing, Regression Testing, Software Testing, API Testing
-- **Management**: Test Leadership & Guidance, Cross-Functional Collaboration, Technical Mentorship & Code Review
-- **Databases/Web/Application Servers**: SQL Server, MongoDB, Azure DevOps, HTTP Web Server
-- **Software**: Microsoft SQL Server Management Studio (SSMS), Microsoft Azure Data Factory, Microsoft Azure Storage Explorer, Postman API
-- **Others**: JIRA, HP ALM, GIT, SDLC, Test Automation, Agile Methodology, Scrum, Continuous Integration and Delivery (CI/CD) pipeline
-
 - **Project Management**: Strategic Planning, Risk Management, Resource Allocation, Cross-Functional Team
 Leadership, Agile Methodologies, Waterfall Methodology, Budget Management, Schedule Management
 - **Product Development**: Requirements Gathering, Program Timelines, Milestone Achievement, Product Launches,
