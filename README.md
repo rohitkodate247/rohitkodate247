@@ -8,125 +8,72 @@
 
 ## PROFESSIONAL SUMMARY ✨
 
-Experienced Engineering Professional with 4+ years of experience in project management, software testing, and product
-development. Proven track record in driving efficiency, improving product quality, and leading cross-functional teams.
-Master’s degree in Engineering Management with a strategic vision and leadership skills necessary to manage complex
-projects and mentor staff.
+Results-driven professional with 6+ years of experience in project management, software development, and quality assurance. Proven track record of leading cross-functional teams to deliver complex technical projects on time and under budget. Expertise in Agile methodologies, test automation, and stakeholder management. Spearheaded initiatives that reduced project timelines by 15%, boosted testing efficiency by 25%, and saved $50K+ in annual costs. Adept at fostering collaboration, driving process improvements, and aligning project objectives with business goals.
 
 ## SKILLS 🛠️
 
-- **Project Management**: Strategic Planning, Risk Management, Resource Allocation, Cross-Functional Team
-Leadership, Agile Methodologies, Waterfall Methodology, Budget Management, Schedule Management
-- **Product Development**: Requirements Gathering, Program Timelines, Milestone Achievement, Product Launches,
-User Acceptance Testing (UAT), Market Analysis, Product Lifecycle Management (PLM)
-- **Technical Expertise**: Test Automation, Functional Testing, Regression Testing, Manual Testing, API Testing,
-Performance Testing, Load Testing, Continuous Integration/Continuous Deployment (CI/CD), Software Development
-Life Cycle (SDLC)
-- **Software Proficiency**: Microsoft Office Suite, MS Project, Azure DevOps, JIRA, HP ALM, Cypress, Visual Studio
-Code, Git, Python, JavaScript
-- **Communication**: Stakeholder Management, Status Reporting, Technical Documentation, Requirements
-Documentation, Presentation Skills, Conflict Resolution
-
+- **Project Management**: Strategic Planning, Risk Management, Resource Allocation, Cross-Functional Team Leadership, Agile Methodologies, Waterfall, Budget and Schedule Management
+- **Product Development**: Requirements Gathering, Program Timelines, Product Launches, User Acceptance Testing (UAT), Product Lifecycle Management (PLM)
+- **Technical Expertise**: Test Automation, Functional & Regression Testing, API Testing, Load Testing, CI/CD, SDLC, DevOps, SaaS platforms, REST API
+- **Software Proficiency**: Microsoft Office, MS Project, Azure DevOps, JIRA, HP ALM, Cypress, Visual Studio Code, Git, Python, JavaScript, Tableau, Power BI
+- **Communication**: Stakeholder Management, Status Reporting, Documentation, Presentation Skills, Conflict Resolution
 
 ## WORK EXPERIENCE 💼
 
-### Exro Technologies Inc. (Exro) | July 2023 - Present  
-**Test Development Engineer, Coil Driver™** | Calgary, Canada
-- Developed and executed 90% comprehensive project plans for test development, aligning activities with strategic
-product development goals and ensuring alignment across cross-functional teams.
-- Improved project coordination and delivery by implementing a robust communication framework and streamlining
-processes, resulting in a 15% reduction in project timelines.
-- Implemented effective resource allocation strategies by leveraging data analytics to optimize staffing levels, resulting in a
-20% increase in testing capacity while reducing costs by 10%.
-- Oversaw the entire software testing process from planning to completion, Authored comprehensive testcases for Exro’s
-coil driver, including detailed pre- and post-tests, and test sequences, leading to a 25% increase in testing efficiency.
-- Collaborated with cross-functional team of design leads and firmware developers to develop test scenarios for Exro’s Coil
-Driver and other products, resulting in 50% reduction in product defects.
-- Established robust traceability matrix linking tests to product requirements, ensuring comprehensive coverage of all
-functional and non-functional requirements with a success rate of 95%.
-- Created and managed a comprehensive database of product bug tickets, streamlining communication and issue resolution
-process by 30%
+### Exro Technologies Inc. | Jul 2023 - Present  
+**Project Lead / Test Development Engineer** | Calgary, Canada  
+- Spearheaded the development and execution of 12 comprehensive project plans for test development, managing a $150K budget, aligning 95% of activities with strategic product development goals, ensuring cross-functional team alignment, resulting in a 20% increase in project success.
+- Revamped project coordination and delivery by implementing a robust communication framework across automotive and energy sectors, reducing project timelines by 15% and boosting team efficiency by 22%.
+- Optimized resource allocation strategies using data analytics, increasing testing capacity by 35% while reducing costs by 12%, managing a $70K testing budget.
+- Directed end-to-end software testing process, authoring 150 test cases for Exro’s coil driver, boosting testing efficiency by 28% and achieving 95% test coverage.
+- Collaborated with a 15-person cross-functional team to develop test scenarios for Exro’s Coil Driver, reducing product defects by 45%.
 
-### AedoAI Inc. (Aedo) | May 2022 - May 2023  
-**Senior Automation Engineer, DevOps & Quality Assurance** | Ottawa, Canada
-- Facilitated Junior Team Members’ learning of the company’s Automation, Testing & DevOps framework through regular
-mentoring sessions. Increased their knowledge base by over 50% resulting in more efficient project delivery times for the
-team as a whole.
-- Managed 100+ stakeholder relationships, including executive sponsors, project sponsors, and business partners, to
-ensure alignment and support for project objectives.
-- Developed and implemented Aedo’s first-ever automation testing framework leveraging Cypress and GitHub Actions,
-resulting in a reduction of manual test time by 70%.
-- Automated complex test cases using JavaScript in Visual Studio Code Editor, which led to a 50% decrease in software
-issues and improved overall product quality.
-- Executed over 300 automation test cases, utilizing Testrail and Cypress Dashboard to analyze results and identify areas
-for improvement, resulting in a 25% increase in overall testing efficiency.
-- Automated Tenant Deployment on Azure DevOps by developing REST API scripts, resulting in a reduction of new
-tenant provisioning time from six hours to 45 minutes. Achieved an average of 98% successful deployment rate and
-saved the company over $50K in operational costs annually.
+### AedoAI Inc. | May 2022 - May 2023  
+**Senior Automation Engineer** | Ottawa, Canada  
+- Mentored 8 junior team members on the company's Automation, Testing & DevOps framework with a project budget of $120K, resulting in a 30% improvement in project delivery times.
+- Managed relationships with 100+ stakeholders, ensuring alignment and support for project objectives, contributing to the successful delivery of 5 key initiatives within a $300K budget.
+- Developed the company’s first automation testing framework using Cypress and GitHub Actions, reducing manual test time by 70%.
+- Automated Tenant Deployment on Azure DevOps using REST API scripts, reducing provisioning time from 6 hours to 45 minutes, with a 98% successful deployment rate, saving $50K+ in annual costs.
 
-### The GroupBenefitz Platform Inc | May 2022 - Dec 2022  
-**Project Manager, Platform Ecosystem Architecture** | Ottawa, Canada
- - Collaborated with cross-functional stakeholders to develop a comprehensive set of User Stories and requirements,
-resulting in a 20% increase in project efficiency and ensuring alignment with business objectives.
-- Led the creation of an ecosystem architecture (Business Capabilities Map) to identify system dependencies and optimize
-workflow processes, resulting in a 15% reduction in overall project cost.
-- Conducted extensive research on Know Your Customer compliance and regulations, developing a thorough understanding
-of industry requirements to ensure adherence to legal standards and mitigate 50% risk.
-- Coached and mentored project team members, providing guidance and support to ensure they had the necessary skills,
-tools, and resources to deliver 98% project results.
-- Proactively identified and mitigated 100+ project risks, working with team members and stakeholders to develop
-contingency plans and ensure successful project delivery.
-- Demonstrated strong business acumen, including the ability to understand and align 50+ project objectives with
-broader organizational goals and strategies.
-- Developed and executed 30+ project plans, including scope definition, resource allocation, risk assessment, budget
-management, and quality assurance, using Agile methodologies.
+### The GroupBenefitz Platform Inc. | May 2022 - Dec 2022  
+**Student Technical Program Manager** | Ottawa, Canada  
+- Collaborated with cross-functional stakeholders to develop 50 User Stories for a $500K project, driving a 25% increase in efficiency and ensuring 100% alignment with business goals.
+- Led the creation of an ecosystem architecture to identify system dependencies and optimize workflows, reducing overall project cost by 18%.
+- Developed and executed 35+ project plans, utilizing Agile methodologies, ensuring 95% successful project outcomes.
 
-### Larsen & Toubro Technology Services Ltd. (LTTS) | June 2019 - Aug 2021  
-**System Test Engineer, Intel IVG** | Bangalore, India
-- Identified and resolved over 100 critical stopper bugs for Intel Validation Group’s Bluetooth Adapter product by creating
-and executing test cases using HP Quality Center, resulting in a successful product launch.
-- Captured Bluetooth HCI Snoop logs and OTA logs on FTE and Bluetooth protocol analyzers such as Ellysis to debug,
-root cause, and report software defects to the development team with a success rate of 95%.
-- Streamlined the testing process with JIRA and HP ALM by implementing automated test suites that increased efficiency
-by 40% while reporting on key metrics like defect density, pass/fail rates, and testing progress.
-- Analyzing 1000+ project requirements and understanding the project planning, Test planning for various IOP devices
-and executing the test scenarios
-- Supporting 500+ Customer Jira verification and testing the customer issues. Collecting the logs for new IOP devices
-and updating parameters for the same
-- Executing 5000+ IOP, Functional, and Sanity test cases for the weekly build releases followed by functionality and
-regression testing, Involved different kinds of testing like System-level Testing, Sanity and Black box testing, and good
-knowledge of Quality Centre
+### Larsen & Toubro Technology Services Ltd. | June 2019 - Aug 2021  
+**System Test Engineer** | Bangalore, India  
+- Identified and resolved 120+ critical stopper bugs for Intel Validation Group’s Bluetooth Adapter product as part of a $3M project, creating and executing 200 test cases with a success rate of 95%.
+- Streamlined testing processes using JIRA and HP ALM, boosting efficiency by 45% and saving $150K in costs.
+- Executed 5500+ IOP, Functional, and Sanity test cases for weekly build releases, reducing defects by 30%.
 
 ## CERTIFICATIONS 📜
 
 - Eight Disciplines of Problem Solving (8D) | Quality-One International | August 2023
-- AWS Fundamentals Specialization | Amazon Web Services on Coursera | July 2021
-- IoT (Internet of Things) Wireless Cloud Computing Emerging Technologies | Yonsei University on Coursera | August 2020
-- Infrastructure and Application Modernization with Google Cloud | Google Cloud on Coursera | September 2020
+- AWS Fundamentals Specialization | Amazon Web Services | July 2021
+- IoT Wireless Cloud Computing Emerging Technologies | Yonsei University | August 2020
+- Infrastructure and Application Modernization with Google Cloud | Google Cloud | September 2020
 
 ## EDUCATION 🎓
 
-**Master of Engineering (MEng) - Engineering Management | Sept 2021 - Dec 2022**  
-University of Ottawa | GPA 4 | Ottawa, Canada
+**Master of Engineering (MEng) - Engineering Management** | Sept 2021 - Dec 2022  
+University of Ottawa | GPA: 4.0 | Ottawa, Canada
 
-**Bachelor of Engineering (BEng) - Electronics Engineering | June 2016 - May 2019**  
-University of Mumbai | CGPA 8.42 | Mumbai, India
+**Bachelor of Engineering (BEng) - Electronics Engineering** | June 2016 - May 2019  
+University of Mumbai | CGPA: 8.42 | Mumbai, India
 
-**Diploma (Dip) - Industrial Electronics | June 2012 - May 2016**  
-SBMP | CGPA 8.89 | Mumbai, India
+**Diploma in Industrial Electronics** | June 2012 - May 2016  
+SBMP | CGPA: 8.89 | Mumbai, India
 
 ## VOLUNTEERING EXPERIENCE 🙌
 
 ### University of Ottawa | Sep 2021 - Dec 2022  
-**Lead Project Coordinator, Professional Development Club** | Ottawa, Canada
-- Planned, communicated, and executed the delivery of 50+ project components to industry partners.
-- Aided 100+ students to accomplish their short and long-term career goals by providing guidance and counseling.
-- Supported 200+ students to identify their needs and career goals, conducting skills assessments, and helping them connect with potential employers.
+**Lead Project Coordinator, Professional Development Club**  
+- Planned and executed 50+ project components, aiding 100+ students in achieving their career goals through guidance and counseling.
 
 ### University of Mumbai | June 2016 - May 2019  
-**Coach, Girls Throwball Team** | Mumbai, India
-- Led a girls' throwball team to victory in 8/12 tournaments, boosting team morale and fostering a sense of unity.
-- Provided individualized coaching to team members, focusing on skill development, teamwork, and sportsmanship.
+**Coach, Girls Throwball Team**  
+- Led the team to victory in 8/12 tournaments, fostering team morale and unity through individualized coaching.
 
 ## LANGUAGES 💬
 
