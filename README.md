@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rohit Kodate!
 
 <p align="center">
-  <img src="https://github.com/rohitkodate/rohitkodate/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%203%20jan%202025.png" alt="Rohit Kodate Banner" width="100%" />
+  <img src="https://github.com/rohitkodate/rohitkodate247/blob/main/rohit-kodate-linkedin-banner.png" alt="Rohit Kodate Banner" width="100%" />
 </p>
 
 
