@@ -1,83 +1,114 @@
-# Rohit Kodate 🚀
+# 👋 Hi, I'm Rohit Kodate!
 
-📞 +1-343-558-0577  
-✉️ kodaterohitkodate@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/rohit-kodate)  
-📷 [GitHub](https://github.com/rohitkodate247)  
-📍 Calgary, AB
+<p align="center">
+  <img src="https://github.com/rohitkodate/rohitkodate/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%203%20jan%202025.png" alt="Rohit Kodate Banner" width="100%" />
+</p>
 
-## PROFESSIONAL SUMMARY ✨
 
-Results-driven Quality Assurance and Testing Professional with 6+ years of expertise ensuring product excellence through strategic testing methodologies, automation, and process optimization. With a Master’s in Engineering Management, I bring strong leadership and a collaborative mindset to drive success in cross-functional teams. Skilled in leveraging Agile and DevOps principles to enhance efficiency, ensuring timely delivery of high-quality software solutions. Proven track record of reducing project timelines, increasing testing efficiency, and driving cost savings through innovation and process improvement.
 
-## SKILLS 🛠️
+🎯 **Technical Project Manager** | **Program Manager** | **Engineering Manager**  
+📍 Calgary, AB, Canada  
+🎓 MEng, Engineering Management — University of Ottawa  
+💼 Ex-Intel (via L&T), Ex-AedoAI, Ex-Exro Technologies
 
-- **Quality Assurance & Testing**: Functional Testing, Regression Testing, Performance Testing, API Testing, Test Automation Frameworks (Cypress, Selenium), Creating & Executing Automation Test Scripts
-- **Programming & Scripting**: Proficient in Python, JavaScript, TypeScript, SQL
-- **Development Tools**: Visual Studio Code, Postman API, Git, Code Review
-- **DevOps & Agile**: CI/CD Pipelines, Release Management, Cross-Cloud Computing, API Gateways, Agile Methodology, Scrum, SDLC
-- **Cloud Platforms**: Azure DevOps, Azure Data Factory, Azure Storage Explorer
-- **Databases & Servers**: SQL Server, MongoDB, HTTP Web Server
-- **Collaboration & Test Management Tools**: JIRA, HP ALM, CodeBeamer
-- **Project Management**: Strategic Planning, Resource Allocation, Technical Mentorship, Cross-Functional Team Leadership
+---
 
-## WORK EXPERIENCE 💼
+## 📬 Contact Me
 
-### Exro Technologies Inc. | Jul 2023 - Present  
-**Test Development Engineer** | Calgary, Canada  
-- Revamped software testing processes, authoring comprehensive test cases for Exro’s Coil Driver, leading to a 25% increase in testing efficiency.  
-- Developed robust traceability matrices, ensuring 95% coverage of all functional and non-functional requirements.  
-- Automated 100% Code Generation for Simulink Motor Control and Firmware C Code using Azure DevOps Build Pipelines, saving $45K+ annually in license costs.  
-- Identified and resolved test failures, improving testing accuracy by 20%, and streamlined issue resolution, reducing defects by 50%.  
-- Optimized resource allocation, increasing testing capacity by 20% while reducing costs by 10%.  
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohit-kodate">
+    <img src="https://img.shields.io/badge/LinkedIn-rohit--kodate-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a> 
+  &nbsp;&nbsp; 
+  <a href="mailto:rohitkodate36@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rohitkodate36%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
+  </a> 
+  &nbsp;&nbsp;
+  <a href="tel:+13435580577">
+    <img src="https://img.shields.io/badge/Phone-(343)%20558--0577-blue?style=for-the-badge&logo=phone" alt="Phone">
+  </a>
+</p>
 
-### AedoAI Inc. | May 2022 - May 2023  
-**Senior Automation Engineer** | Ottawa, Canada  
-- Developed and implemented Aedo’s first automation testing framework using Cypress and GitHub Actions, reducing manual testing time by 70%.  
-- Automated tenant deployment on Azure DevOps with REST API scripts, reducing provisioning time from six hours to 45 minutes, saving $50K annually.  
-- Conducted rigorous UI and pipeline testing, achieving a 99% test case pass rate and reducing critical production defects by 35%.  
+---
 
-### The GroupBenefitz Platform Inc. | May 2022 - Dec 2022  
-**Technical Project Manager** | Ottawa, Canada  
-- Created a Business Capabilities Map to optimize workflows, reducing overall project costs by 15%.  
-- Developed user stories and requirements, increasing project efficiency by 20% while ensuring alignment with business objectives.  
-- Coached and mentored project team members, achieving a 98% success rate in project outcomes.
+## 🚀 About Me
 
-### Larsen & Toubro Technology Services Ltd. | Jun 2019 - Aug 2021  
-**System Test Engineer** | Bangalore, India  
-- Created and executed 200+ test cases for Intel’s Bluetooth Adapter, reducing defects by 30%.  
-- Boosted testing efficiency by 45%, saving $150K in costs, and streamlined processes using JIRA and HP ALM.  
+I'm a **Technical Project Manager** with over **6.5 years** of experience delivering high-impact tech initiatives across clean-tech, embedded systems, and SaaS platforms. I specialize in **QA strategy**, **test automation**, **cross-functional team leadership**, and **end-to-end project delivery** aligned with Agile and SDLC best practices.
 
-## CERTIFICATIONS 📜
+🔹 Built automation frameworks that cut manual testing by 70%  
+🔹 Delivered projects 20–25% faster through streamlined collaboration  
+🔹 Managed $150K+ budgets while driving measurable improvements in testing efficiency, system uptime, and stakeholder satisfaction
 
-- Eight Disciplines of Problem Solving (8D) | Quality-One International | August 2023  
-- AWS Fundamentals Specialization | Amazon Web Services | July 2021  
-- IoT Wireless Cloud Computing Emerging Technologies | Yonsei University | August 2020  
-- Infrastructure and Application Modernization with Google Cloud | Google Cloud | September 2020  
+💡 *I'm passionate about turning complex challenges into scalable solutions that drive business value.*
 
-## EDUCATION 🎓
+---
 
-**Master of Engineering (MEng) - Engineering Management**  
-University of Ottawa | GPA: 4.0 | Sept 2021 - Dec 2022  
+## 🧠 Key Skills & Tools
 
-**Bachelor of Engineering (BEng) - Electronics Engineering**  
-University of Mumbai | CGPA: 8.42 | Jun 2016 - May 2019  
+### Certifications
+- PMP (In Progress) | PMI Member since 2025  
+- VDA FMEA | 8D Problem Solving | AWS Fundamentals
 
-**Diploma in Industrial Electronics**  
-SBMP | CGPA: 8.89 | Jun 2012 - May 2016  
+### Project Management & Collaboration
+`Jira`, `Asana`, `Monday.com`, `Confluence`, `Slack`, `Microsoft Teams`, `GitHub`, `GitLab`
 
-## VOLUNTEERING EXPERIENCE 🙌
+### Automation, DevOps & QA
+`Azure DevOps`, `HP ALM`, `Cypress`, `Selenium`, `Postman`, `CI/CD`, `TestRail`
 
-### University of Ottawa | Sep 2021 - Dec 2022  
-**Lead Project Coordinator, Professional Development Club**  
-- Organized 50+ project components, aiding 100+ students in achieving their career goals through guidance and counseling.  
+### Programming & Tech Stack
+`Python`, `JavaScript`, `TypeScript`, `SQL`, `MongoDB`, `REST APIs`, `Simulink`, `VS Code`
 
-### University of Mumbai | Jun 2016 - May 2019  
-**Coach, Girls Throwball Team**  
-- Led the team to victory in 8/12 tournaments, fostering team morale through personalized coaching.  
+### Methodologies
+`Agile`, `Scrum`, `Kanban`, `Waterfall`, `PLM`, `UAT`, `SDLC`
 
-## LANGUAGES 💬
+---
 
-- English (Fluent)  
-- Hindi (Fluent)  
-- Marathi (Fluent)  
+## 💼 Experience Highlights
+
+### Exro Technologies Inc. (Jul 2023 – Oct 2025)  
+**Project Lead / Test Development Engineer**  
+- Led test planning and coordination for clean energy firmware products  
+- Authored 150+ test cases; achieved 95% test coverage  
+- Managed $70K+ QA budget, improved testing capacity by 35%
+
+### AedoAI Inc. (May 2022 – May 2023)  
+**Senior Automation Engineer**  
+- Built Cypress-based automation framework, reducing manual QA time by 70%  
+- Automated tenant deployment using Azure DevOps & REST APIs  
+- Mentored 8 QA engineers and improved team delivery by 30%
+
+### GroupBenefitz Platform (May 2022 – Dec 2022)  
+**Technical Project Manager**  
+- Developed ecosystem architecture and PM artifacts  
+- Led scope, risk, and resource planning for fintech product lifecycle
+
+### L&T Technology Services (Jun 2019 – Aug 2021)  
+**System Test Engineer (Intel IVG)**  
+- Delivered Bluetooth firmware validation for Intel adapters  
+- Executed 5,500+ system tests; cut defect rate by 30%
+
+---
+
+## 🎓 Education
+
+**Master of Engineering (MEng), Engineering Management**  
+*University of Ottawa (2021–2022)* — GPA: 4.0  
+
+**Bachelor of Engineering – Electronics**  
+*University of Mumbai (2016–2019)* — CGPA: 8.42  
+
+**Diploma – Industrial Electronics**  
+*SBMP Mumbai (2012–2016)* — CGPA: 8.89  
+
+---
+
+## 🔍 Fun Fact
+
+🏐 *At 20, I coached a girls' throwball team — leading them to 8 out of 12 tournament wins. That experience shaped my early leadership skills and love for team dynamics.*
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=rohitkodate247&label=Profile%20views&color=0e75b6&style=flat)
+
+> _Last updated: January 2026_
+
