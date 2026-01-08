@@ -5,7 +5,6 @@
 </p>
 
 
-
 🎯 **Technical Project Manager** | **Program Manager** | **Engineering Manager**  
 📍 Calgary, AB, Canada  
 🎓 MEng, Engineering Management — University of Ottawa  
