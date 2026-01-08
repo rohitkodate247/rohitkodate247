@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rohit Kodate!
 
-<img width="2000" height="600" alt="rohit-kodate-linkedin-banner" src="https://github.com/user-attachments/assets/a79fc7ef-e0e0-43d8-bc3f-2f70bb24492e" />
+<img width="2000" height="400" alt="rohit-kodate-linkedin-banner" src="https://github.com/user-attachments/assets/a79fc7ef-e0e0-43d8-bc3f-2f70bb24492e" />
 
 
 🎯 **Technical Project Manager** | **Program Manager** | **Engineering Manager**  
@@ -43,8 +43,8 @@ I'm a **Technical Project Manager** with over **6.5 years** of experience delive
 ## 🧠 Key Skills & Tools
 
 ### Certifications
-- PMP (In Progress) | PMI Member since 2025  
-- VDA FMEA | 8D Problem Solving | AWS Fundamentals
+- `PMP (In Progress)` | `PMI Member since 2025`  
+- `VDA FMEA` | `8D Problem Solving` | `AWS Fundamentals`
 
 ### Project Management & Collaboration
 `Jira`, `Asana`, `Monday.com`, `Confluence`, `Slack`, `Microsoft Teams`, `GitHub`, `GitLab`
