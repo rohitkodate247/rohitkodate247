@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Rohit Kodate!
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohitkodate/rohitkodate247/main/rohit-kodate-linkedin-banner.png" alt="Rohit Kodate Banner" width="100%" />
-</p>
+<img width="2000" height="600" alt="rohit-kodate-linkedin-banner" src="https://github.com/user-attachments/assets/a79fc7ef-e0e0-43d8-bc3f-2f70bb24492e" />
 
 
 🎯 **Technical Project Manager** | **Program Manager** | **Engineering Manager**  
