@@ -43,7 +43,7 @@ I'm a **Technical Project Manager** with over **6.5 years** of experience delive
 ## 🧠 Key Skills & Tools
 
 ### Certifications
-- `PMP (In Progress)` | `PMI Member since 2025`  
+- `PMP Candidate` | `PMI Member since 2024`  
 - `VDA FMEA` | `8D Problem Solving` | `AWS Fundamentals`
 
 ### Project Management & Collaboration
