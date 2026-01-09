@@ -64,25 +64,34 @@ I'm a **Technical Project Manager** with over **6.5 years** of experience delive
 
 ### Exro Technologies Inc. (Jul 2023 – Oct 2025)  
 **Project Lead / Test Development Engineer**  
-- Led test planning and coordination for clean energy firmware products  
-- Authored 150+ test cases; achieved 95% test coverage  
-- Managed $70K+ QA budget, improved testing capacity by 35%
+- Spearheaded the development and execution of 12 comprehensive project plans for test development in the clean technology industry, managing a $150K budget, aligning 95% of activities with strategic product development goals; ensured cross-functional team alignment, resulting in a 20% increase in project success.  
+- Revamped project coordination and delivery by implementing a robust communication framework across automotive and energy sectors; streamlined processes, reducing project timelines by 15% and boosting team efficiency by 22%.
+- Optimized resource allocation strategies using data analytics, increasing testing capacity by 35% while reducing costs by 12%; managed a $70K testing budget for automotive product development.
+- Directed end-to-end software testing process, authoring 150 comprehensive test cases for Exro's coil driver; boosted testing efficiency by 28% and achieved 95% test coverage.
+- Collaborated with a 15-person cross-functional team to develop test scenarios for Exro's Coil Driver and other products; reduced product defects by 45%.
+
 
 ### AedoAI Inc. (May 2022 – May 2023)  
 **Senior Automation Engineer**  
-- Built Cypress-based automation framework, reducing manual QA time by 70%  
-- Automated tenant deployment using Azure DevOps & REST APIs  
-- Mentored 8 QA engineers and improved team delivery by 30%
+- Mentored 8 junior team members on the company's Automation, Testing & DevOps framework in the SaaS industry with a project budget of $120K; enhanced knowledge base by over 50%, resulting in 30% more efficient project delivery times.
+- Managed relationships with 100+ stakeholders across SaaS and enterprise software, ensuring alignment and support for project objectives; contributed to the successful delivery of 5 key initiatives within a $300K budget.
+- Pioneered development and implementation of the company's first automation testing framework using Cypress and GitHub Actions SaaS platforms; reduced manual test time by 70%, setting a new efficiency standard.
+- Engineered automation of Tenant Deployment on Azure DevOps using REST API scripts; reduced new tenant provisioning time from 6 hours to 45 minutes, yielding 98% successful deployment rate and saving $50K+ in annual operational costs.
+
 
 ### GroupBenefitz Platform (May 2022 – Dec 2022)  
 **Technical Project Manager**  
-- Developed ecosystem architecture and PM artifacts  
-- Led scope, risk, and resource planning for fintech product lifecycle
+- Collaborated with cross-functional stakeholders in the financial technology industry to develop 50 User Stories and requirements for a $500K project; drove 25% increase in project efficiency and ensured 100% alignment with business objectives.
+- Led creation of ecosystem architecture (Business Capabilities Map) to identify system dependencies; optimized workflow processes, reducing overall project cost by 18%.
+- Developed and executed 35+ project plans across financial technology and enterprise software sectors, including scope definition, resource allocation, risk assessment, budget management, and quality assurance; utilized Agile methodologies, ensuring 95% successful project outcomes.
+
 
 ### L&T Technology Services (Jun 2019 – Aug 2021)  
 **System Test Engineer (Intel IVG)**  
-- Delivered Bluetooth firmware validation for Intel adapters  
-- Executed 5,500+ system tests; cut defect rate by 30%
+- Identified and resolved 120+ critical stopper bugs for Intel Validation Group's Bluetooth Adapter product, part of a $3M software development project by creating and executing 200 detailed test cases using HP Quality Center; ensured successful product launch.
+- Streamlined testing process by implementing automated test suites in JIRA and HP ALM; boosted efficiency by 45%, providing key metrics on defect density, pass/fail rates, and testing progress, contributing to $150K in cost savings.
+- Executed 5500+ IOP, Functional, and Sanity test cases for weekly build releases in the telecommunications sector; performed functionality and regression testing, achieving a 30% defect reduction and maintaining high-quality standards for a $2M project.
+
 
 ---
 
