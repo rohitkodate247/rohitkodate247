@@ -64,10 +64,10 @@ I'm a **Technical Project Manager** with over **6.5 years** of experience delive
 
 ### Exro Technologies Inc. (Jul 2023 – Oct 2025)  
 **Project Lead / Test Development Engineer**  
-- Spearheaded the development and execution of 12 comprehensive project plans for test development in the clean technology industry, managing a $150K budget, aligning 95% of activities with strategic product development goals; ensured cross-functional team alignment, resulting in a 20% increase in project success.  
+- Spearheaded the development and execution of 12 comprehensive project plans for Exro’s Coil Driver in the clean technology industry, managing a $150K budget, aligning 95% of activities with strategic product development goals; ensured cross-functional team alignment, resulting in a 20% increase in project success.  
 - Revamped project coordination and delivery by implementing a robust communication framework across automotive and energy sectors; streamlined processes, reducing project timelines by 15% and boosting team efficiency by 22%.
 - Optimized resource allocation strategies using data analytics, increasing testing capacity by 35% while reducing costs by 12%; managed a $70K testing budget for automotive product development.
-- Directed end-to-end software testing process, authoring 150 comprehensive test cases for Exro's coil driver; boosted testing efficiency by 28% and achieved 95% test coverage.
+- Directed end-to-end software testing process, authoring 150 comprehensive test cases for Exro's Coil Driver; boosted testing efficiency by 28% and achieved 95% test coverage.
 - Collaborated with a 15-person cross-functional team to develop test scenarios for Exro's Coil Driver and other products; reduced product defects by 45%.
 
 
